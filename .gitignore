@@ -1,0 +1,8 @@
+/vendor
+composer.phar
+.env
+.idea
+.vscode
+.vs
+.DS_Store
+Thumbs.db
