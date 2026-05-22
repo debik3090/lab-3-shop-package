@@ -22,3 +22,4 @@ class ShopServiceProvider extends ServiceProvider
 }
 
 }
+

@@ -9,3 +9,4 @@ Route::get('/test-from-package', function () {
 
 Route::get('/products', [ProductController::class, 'index'])
     ->name('shop.products.index');
+

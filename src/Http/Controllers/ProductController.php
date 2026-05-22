@@ -14,3 +14,4 @@ class ProductController extends Controller
         return view('shop::products.index', compact('products'));
     }
 }
+

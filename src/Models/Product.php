@@ -13,3 +13,4 @@ class Product extends Model
         'stock',
     ];
 }
+
